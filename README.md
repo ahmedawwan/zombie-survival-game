@@ -2,8 +2,6 @@
 
 Developed in C# using Windows Application Forms in Visual Studio
 
-Want to play? download the exe file by clicking [here](https://anonfiles.com/d6O159P5yb/ZombieSurvival_exe)
-
 ## Gameplay
 
 ![Game play](ZombieSurvival/.github/game-play.gif)
